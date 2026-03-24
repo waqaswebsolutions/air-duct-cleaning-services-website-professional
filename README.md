@@ -1,5 +1,50 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+# PureFlow Professional - Professional Air Duct Cleaning Service
+
+A feature-rich professional air duct cleaning service website built with Next.js 14, MongoDB, and Tailwind CSS. Includes blog system, dynamic testimonials, newsletter subscription, and enhanced contact form with service selection.
+
+## ✨ Key Features
+
+- ✅ **5+ Pages** - Home, About, Services, Blog, Gallery, FAQ, Contact
+- ✅ **Dynamic Blog** - Articles with categories and read time
+- ✅ **Testimonials** - Customer reviews with rating system
+- ✅ **Newsletter** - Email subscription with MongoDB storage
+- ✅ **Enhanced Contact Form** - Service selection, preferred date/time
+- ✅ **FAQ Section** - Accordion-style questions and answers
+- ✅ **Service Gallery** - Image showcase with lightbox
+- ✅ **WhatsApp/Call Button** - Quick contact options
+- ✅ **Social Media Links** - Facebook, Instagram, Twitter
+- ✅ **Business Hours** - With holiday schedule support
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js 14 (App Router)
+- **Styling:** Tailwind CSS
+- **Database:** MongoDB with Mongoose
+- **Animations:** Framer Motion
+- **Icons:** React Icons
+
+## 🎨 Color Scheme
+
+| Color | Hex |
+|-------|-----|
+| Primary | #0F766E |
+| Secondary | #0891B2 |
+| Accent | #F97316 |
+| Background | #FFFFFF |
+
+## 🚀 Live Demo
+
+[View Demo](https://professional.pureflowair.demo)
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
+
 ## Getting Started
 
 First, run the development server:
